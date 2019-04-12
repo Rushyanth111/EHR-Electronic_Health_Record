@@ -1,6 +1,6 @@
 # EHR-Electronic_Health_Record
-First phase of our Project
-Our Goal is to complete by the of this Semester
+# First phase of our Project
+# Our Goal is to complete by the of this Semester
 
 Reference Materials:
 1)http://docs.smarthealthit.org/fhir-support

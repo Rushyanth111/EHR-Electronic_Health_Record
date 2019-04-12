@@ -5,13 +5,13 @@ Our Goal is to complete by the of this Semester
 Reference Materials:
 1)http://docs.smarthealthit.org/fhir-support
 2)https://www.hl7.org/fhir/
-.
-.
+
+
 3)https://github.com/mitmedialab/medrec
 4)https://blockgeeks.com/two-node-setup-of-a-private-ethereum/
-.
-.
+
+
 5)https://medium.com/blockchannel/a-beginners-guide-to-ethereum-5e7e132a854d  
-.
-.
+
+
 6)https://developer.allscripts.com/Content/fhir/content/PRO171_Sandbox/index.html

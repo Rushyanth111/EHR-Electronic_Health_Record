@@ -1,5 +1,6 @@
 # EHR-Electronic_Health_Record
-###**First phase of our Project**
+
+###First phase of our Project
 
 **Our _Goal_ is to complete this by the end of _this Semester_**
 

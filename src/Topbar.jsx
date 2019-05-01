@@ -170,7 +170,7 @@ class PrimarySearchAppBar extends React.Component {
               <MenuIcon />
             </IconButton>
             <Typography className={classes.title} variant="h6" color="inherit" noWrap>
-              Material-UI
+              Files
             </Typography>
             <div className={classes.search}>
               <div className={classes.searchIcon}>
@@ -187,12 +187,12 @@ class PrimarySearchAppBar extends React.Component {
             <div className={classes.grow} />
             <div className={classes.sectionDesktop}>
               <IconButton color="inherit">
-                <Badge badgeContent={4} color="secondary">
+                <Badge color="secondary">
                   <MailIcon />
                 </Badge>
               </IconButton>
               <IconButton color="inherit">
-                <Badge badgeContent={17} color="secondary">
+                <Badge color="secondary">
                   <NotificationsIcon />
                 </Badge>
               </IconButton>
